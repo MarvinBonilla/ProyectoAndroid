@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="hint_edtCarnet">Enter Carnet</string>
+    <string name="hint_edtClave">Enter Password</string>
+    <string name="msj_edtCarnet">Required data. Enter Carnet</string>
+    <string name="msj_edtClave">Required data. Enter Password</string>
+    <string name="text_btnHorarios">Schedule</string>
+    <string name="text_btnIngresa">Enter</string>
+    <string name="text_btnLaboratorios">Laboratories</string>
+    <string name="text_btnReglamento">Regulation</string>
+</resources>

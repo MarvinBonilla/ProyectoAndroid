@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+
+    <!--Actividad Principal-->
+    <string name="hint_edtCarnet">Ingrese Carnet</string>
+    <string name="hint_edtClave">Ingrese Clave</string>
+    <string name="text_btnIngresa">Ingresar</string>
+    <string name="msj_edtCarnet">Dato requerido. Ingrese Carnet</string>
+    <string name="msj_edtClave">Dato requerido. Ingrese Clave</string>
+
+    <!--Actividad Secundaria-->
+    <string name="text_btnHorarios">Horarios</string>
+    <string name="text_btnLaboratorios">Laboratorios</string>
+    <string name="text_btnReglamento">Reglamento</string>
+
+</resources>
